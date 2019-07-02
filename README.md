@@ -4,7 +4,8 @@ Pokemon Card Game
 
 Simple card Game with an Pokedex API.
 Picks random cards from the card pool and the hand with the highest exp score wins.
-Refresh the site for new cards. ( need to implement a play again button )
+Refresh the site for new cards. ( need to implement a play again button ).
+
 
 How to start the APP
 ----------------------------
